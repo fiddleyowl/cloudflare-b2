@@ -1,7 +1,7 @@
 name = "cloudflare-b2"
 
 workers_dev = true
-compatibility_date = "2023-09-04"
+compatibility_date = "2025-09-15"
 
 main = "index.js"
 
